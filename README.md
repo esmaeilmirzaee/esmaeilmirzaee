@@ -2,9 +2,9 @@
 <p align="center">Welcome to my github page</p>
 <p align="right">Esmaeil MIRZAEE</p>
 
-
-![Esmaeil MIRZAEE](https://raw.githubusercontent.com/esmaeilmirzaee/esmaeilmirzaee.github.io/0.1/src/assets/img/my__avatar.svg)
-
+<p align="center">
+<img align="center" alt="Esmaeil MIRZAEE" src="https://raw.githubusercontent.com/esmaeilmirzaee/esmaeilmirzaee.github.io/0.1/src/assets/img/my__avatar.svg" />
+</p>
 
 This is my avatar, to be honest, in the past few years I gained much fat so I am on a regime to lose weight and then share my real photo.
 
