@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Esmaeil MIRZAEE](https://raw.githubusercontent.com/esmaeilmirzaee/esmaeilmirzaee.github.io/0.1/src/assets/img/my__avatar.svg)
+<p align="center">![Esmaeil MIRZAEE](https://raw.githubusercontent.com/esmaeilmirzaee/esmaeilmirzaee.github.io/0.1/src/assets/img/my__avatar.svg)</p>
 
 
 This is my avatar, to be honest, in the past few years I gained much fat so I am on a regime to lose weight and then share my real photo.
@@ -13,7 +13,7 @@ This is my avatar, to be honest, in the past few years I gained much fat so I am
 
 **Currently, I am looking for a job. If you know any vaccancies that fit my ability please let me know.**
 
-- Please pay a visit [my portfolio](https://esmaeilmirzaee.github.io).
+- Please pay a visit to [my portfolio](https://esmaeilmirzaee.github.io).
 <!--
 **esmaeilmirzaee/esmaeilmirzaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
