@@ -1,9 +1,9 @@
-<p align="center"># Hi there 👋</p>
+<p align="center">Hi there 👋</p>
 <p align="center">Welcome to my github page</p>
-<p align="left">Esmaeil MIRZAEE</p>
+<p align="right">Esmaeil MIRZAEE</p>
 
 
-<p align="center">![Esmaeil MIRZAEE](https://raw.githubusercontent.com/esmaeilmirzaee/esmaeilmirzaee.github.io/0.1/src/assets/img/my__avatar.svg)</p>
+![Esmaeil MIRZAEE](https://raw.githubusercontent.com/esmaeilmirzaee/esmaeilmirzaee.github.io/0.1/src/assets/img/my__avatar.svg)
 
 
 This is my avatar, to be honest, in the past few years I gained much fat so I am on a regime to lose weight and then share my real photo.
