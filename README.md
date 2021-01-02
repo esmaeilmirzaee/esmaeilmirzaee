@@ -7,7 +7,7 @@
 </p>
 
 
-> I was a DevOps Engineer, but I love to put life to my ideas then I started to teach myself how to code. In the last three years, I used many programming language such as `Java`, `Go`, `Ruby` and `JavaScript`. Also, I developed user-interface leveraging `ReactJS` and vanila `HTML`, `CSS/Scc` and `JavaScript` which I share some of my taghuts in my github account. 
+> I was a DevOps Engineer, but I love to put life to my ideas then I started to teach myself how to code. In the last three years, I used many programming language such as `JavaScript`, `Go`, `Java` and `Rust`. Also, I developed user-interface leveraging `ReactJS` and vanila `HTML`, `CSS/Scc` and `JavaScript` which I share some of my taghuts in my github account. 
 
 
 
