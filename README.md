@@ -17,6 +17,7 @@
 
 Here are some ideas to get you started:
 
+- :raising_hand I write on [Medium.com/](https://esmaeilmirzaee.medium.com/about).
 - 🌱 I’m currently learning `Rust`.
 - 👯 I’m looking to collaborate on [Mattermost](https://mattermost.com/).
 - 💬 Ask me about `JavaScript`, `NodeJS`, `Deno`, `ReactJS`, and UI design (ie `Figma`, `Adobe XD`, `Adobe illustrator`)
