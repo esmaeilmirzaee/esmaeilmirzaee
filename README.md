@@ -7,15 +7,13 @@
 </p>
 
 
-> I was a DevOps Engineer, but I love to put life into my ideas then I started to teach myself how to code. I develop in different programming languages such as `JavaScript` and `Rust`. In order to develop user-interface, I use `ReactJS` and vanila `HTML`, `CSS/Scss` and `JavaScript`. 
+> I was a DevOps Engineer. But I loved to put life into my ideas then I started to teach myself how to code. Now, I develop in different programming languages such as `JavaScript` and `Rust`. In order to develop user-interface, I use `ReactJS` and vanila `HTML`, `CSS/Scss` and `JavaScript`. 
 
 
 
 **Currently, I am looking for a job. If you know any vaccancies that fit my ability please let me know.**
 
 - Please pay a visit to [my portfolio](https://esmaeilmirzaee.github.io).
-<!--
-**esmaeilmirzaee/esmaeilmirzaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
