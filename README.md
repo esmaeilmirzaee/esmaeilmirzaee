@@ -18,5 +18,5 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning `Rust`.
-- 👯 I’m looking to collaborate on Mastermost.
+- 👯 I’m looking to collaborate on (Mattermost)[https://mattermost.com/].
 - 💬 Ask me about `JavaScript`, `NodeJS`, `Deno`, `ReactJS`, and UI design (ie `Figma`, `Adobe XD`, `Adobe illustrator`)
