@@ -9,7 +9,7 @@
 
 > I was a DevOps Engineer. But I loved to put life into my ideas then I started to teach myself how to code. Now, I develop in different programming languages such as `JavaScript` and `Rust`. In order to develop user-interface, I use `ReactJS` and vanilla `HTML`, `CSS/Scss` and `JavaScript`. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmaeilmirzaee)](https://github.com/anuraghazra/github-readme-stats)
+[![Esmaeil MIRZAEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmaeilmirzaee&show_icons=true&theme=radical)](https://github.com/esmaeilmirzaee/github-readme-stats)
 
 
 **Currently, I am looking for a job. If you know any vacancies that fit my ability please let me know.**
