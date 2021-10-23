@@ -2,10 +2,6 @@
 <p align="center">Welcome to my github page</p>
 <p align="right">Esmaeil MIRZAEE</p>
 
-<p align="center">
-<img align="center" alt="Esmaeil MIRZAEE" src="https://raw.githubusercontent.com/esmaeilmirzaee/esmaeilmirzaee.github.io/0.1/src/assets/img/my__avatar.svg" />
-</p>
-
 
 > I was a DevOps Engineer. But I loved to put life into my ideas then I started to teach myself how to code. Now, I develop in different programming languages such as `JavaScript` and `Rust`. In order to develop a user-interface, I use `ReactJS` and vanilla `HTML`, `CSS/Scss` and `JavaScript`. 
 
