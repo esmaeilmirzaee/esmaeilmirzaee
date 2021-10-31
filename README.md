@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 
 # Tools
 
-> There are some tools I use everyday. Some I enjoy and some I wish I could make them better or replace them. The following list is all the tools I use.
+> There are some technologies that I use everyday. Some I enjoy and some I wish I could make them better or replace them. The following list is all the tools I use.
 
 |name|description|
+
 |VSCode|Visual studio code|
+|-----|--------|
 |Beekeeper studio|To manage my relational database|
 |MongoDB Compass|To communicate to my MongoDB|
 |Docker|To host my code and manage my containers|
@@ -42,6 +44,7 @@ Here are some ideas to get you started:
 
 # Design
 |name|description|link|
+|-----|--------|----|
 |Figma|My first and foremost achieved tools to design my next project||
 |Adobe Illustrator|To design and draw logos, avatar||
 |Adobe Photoshop|Designing images||
@@ -49,12 +52,14 @@ Here are some ideas to get you started:
 # Frameworks
 ## CSS
 |name|description|
+|-----|--------|
 |Tailwindcss ❤️|First and my most used CSS framework.|
 |Styled-components|My second favourite CSS framework.|
 |Bootstrap|The CSS framework that I use at work.|
 
 ## JavaScript
 |name|description|
+|-----|--------|
 |React|A library that I use a lot for my frontend development|
 |Redux|To manage state of my React-based applications|
 |ExpressJS|To develp backend APIs|
@@ -64,6 +69,7 @@ Here are some ideas to get you started:
 
 # Database
 |name|description|link|
+|-----|--------|---|
 |MongoDB|My favourite nosql database||
 |PostgreSQL|My most used relational database||
 
