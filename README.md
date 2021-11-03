@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 |ejs|To develop dynamic UIs|
 |d3js|To draw really outstanding graphs and charts|
 |chartjs|Simply putting chart to my applications|
+|joi & yup|Validation system I use often|
 
 # Database
 |name|description|link|
