@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ## CSS
 |name|description|
 |-----|--------|
-|Tailwindcss ❤️|First and my most used CSS framework.|
+|Tailwindcss ❤️|My first and most used CSS framework.|
 |Styled-components|My second favourite CSS framework.|
 |Bootstrap|The CSS framework that I use at work.|
 
