@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 |VSCode|Visual studio code|
 |-----|--------|
 |Beekeeper studio|To manage my relational database|
-|MongoDB Compass|To communicate to my MongoDB|
-|Docker|To host my code and manage my containers|
+|MongoDB Compass|To communicate to the MongoDB|
+|Docker|To host code and containers|
 |Alacritty|Rust powered terminal emulator|
-|Firefox developer edition|Browser to test my code|
+|Firefox developer edition, Chrome and Blisk|Browser|
 |Github|To share free version of my code|
 |Gitlab|To manage and work with my teams at work|
 |Bitbucket|To host my side projects|
