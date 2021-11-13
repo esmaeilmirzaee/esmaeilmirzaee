@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🎨 I share my UI design on [Uplabs](https://uplabs.com/esmaeilmirzaee).
 - 🌱 I’m currently learning `Rust`.
 - 👯 I’m looking to collaborate on [Mattermost](https://mattermost.com/).
-- 💬 Ask me about `JavaScript`, `NodeJS`, `Deno`, `ReactJS`, and UI design (ie `Figma`, `Adobe XD`, `Adobe illustrator`)
+- 💬 Ask me about `JavaScript`, `NodeJS`, `Deno`, `Go`, `ReactJS`, and UI design (i.e., `Figma`, `Adobe XD`, `Adobe illustrator`)
 
 # Tools
 
