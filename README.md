@@ -7,15 +7,13 @@
 
 ![Esmaeil MIRZAEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmaeilmirzaee&show_icons=true&theme=radical)
 
-
-**Currently, I am looking for a job. If you know of any vacancies that fit my ability please let me know.**
-
 - Please pay a visit to [my portfolio](https://esmaeilmirzaee.github.io).
 
 Here are some ideas to get you started:
 
 - ✍🏻 I try to publish my thoughts on [Medium](https://esmaeilmirzaee.medium.com/).
 - 🎨 I share my UI design on [Uplabs](https://uplabs.com/esmaeilmirzaee).
+- 🖇 I have also linkedin account [Linkedin](https://linkedin.com/in/esmaeilmirzaee).
 - 🌱 I’m currently learning `Rust`.
 - 👯 I’m looking to collaborate on [Mattermost](https://mattermost.com/).
 - 💬 Ask me about `JavaScript`, `NodeJS`, `Deno`, `Go`, `ReactJS`, and UI design (i.e., `Figma`, `Adobe XD`, `Adobe illustrator`)
@@ -57,7 +55,7 @@ Here are some ideas to get you started:
 |Styled-components|My second favourite CSS framework.|
 |Bootstrap|The CSS framework that I use at work.|
 
-## JavaScript
+## JavaScript & TypeScript
 |name|description|
 |-----|--------|
 |React|A library that I use a lot for my frontend development|
@@ -66,7 +64,16 @@ Here are some ideas to get you started:
 |ejs|To develop dynamic UIs|
 |d3js|To draw really outstanding graphs and charts|
 |chartjs|Simply putting chart to my applications|
-|joi & yup|Validation system I use often|
+|validator & joi & yup|Validation system I use often|
+
+# Testing
+
+> Believer on TDD
+
+## JavaScript & TypeScript
+|name|description|
+|react-testing|Test each unit of my React application|
+|Jest|Unit test the backend of my application|
 
 # Database
 |name|description|link|
