@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 
 ## JavaScript & TypeScript
 |name|description|
+|------|-------|
 |react-testing|Test each unit of my React application|
 |Jest|Unit test the backend of my application|
 
