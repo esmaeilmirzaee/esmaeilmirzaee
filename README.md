@@ -3,7 +3,7 @@
 <p align="right">Esmaeil MIRZAEE</p>
 
 
-> I was a DevOps Engineer. But I loved to put life into my ideas then I started to teach myself how to code. Now, I develop in different programming languages such as `JavaScript` and `Rust`. In order to develop a user-interface, I use `ReactJS` and vanilla `HTML`, `CSS/Scss` and `JavaScript`. 
+> I was a DevOps Engineer. But I loved to put life into my ideas then I started to teach myself how to code. Now, I develop in different programming languages such as `JavaScript`, `TypeScript`, `Python` and `Rust`. In order to develop a user-interface, I use `ReactJS` and vanilla `HTML`, `CSS/Scss` and `JavaScript`. 
 
 ![Esmaeil MIRZAEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmaeilmirzaee&show_icons=true&theme=radical)
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🖇 I have also linkedin account [Linkedin](https://linkedin.com/in/esmaeilmirzaee).
 - 🌱 I’m currently learning `Rust`.
 - 👯 I’m looking to collaborate on [Mattermost](https://mattermost.com/).
-- 💬 Ask me about `JavaScript`, `NodeJS`, `Deno`, `Go`, `ReactJS`, and UI design (i.e., `Figma`, `Adobe XD`, `Adobe illustrator`)
+- 💬 Ask me about `JavaScript`, `TypeScript`, `Python`, `NodeJS`, `Deno`, `Go`, `ReactJS`, and UI design (i.e., `Figma`, `Adobe XD`, `Adobe illustrator`)
 
 # Tools
 
@@ -65,6 +65,12 @@ Here are some ideas to get you started:
 |d3js|To draw really outstanding graphs and charts|
 |chartjs|Simply putting chart to my applications|
 |validator & joi & yup|Validation system I use often|
+
+## Python
+|name|description|
+|-----|--------|
+|Django|My primary refer framework.|
+|FastAPI|My friendly solution for APIs.|
 
 # Testing
 
