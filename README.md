@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🖇 I have also linkedin account [Linkedin](https://linkedin.com/in/esmaeilmirzaee).
 - 🌱 I’m currently learning `Rust`.
 - 👯 I’m looking to collaborate on [Mattermost](https://mattermost.com/).
-- 💬 Ask me about `JavaScript`, `TypeScript`, `Python`, `NodeJS`, `Deno`, `Go`, `ReactJS`, and UI design (i.e., `Figma`, `Adobe XD`, `Adobe illustrator`)
+- 💬 Ask me about `JavaScript`, `TypeScript`, `Python`, `NodeJS`, `Go`, `ReactJS`, and UI design (i.e., `Figma`, `Adobe XD`, `Adobe illustrator`)
 
 # Tools
 
