@@ -3,7 +3,7 @@
 <p align="right">Esmaeil MIRZAEE</p>
 
 
-> I was a DevOps Engineer. But I loved to put life into my ideas then I started to teach myself how to code. Now, I develop in different programming languages such as `JavaScript`, `TypeScript`, `Python` and `Rust`. In order to develop a user-interface, I use `ReactJS` and vanilla `HTML`, `CSS/Scss` and `JavaScript`. 
+> I was a DevOps Engineer. But I loved to put life into my ideas then I started to teach myself how to code. Now, I develop in different programming languages such as `JavaScript`, `TypeScript`, `Python` and `Go`. In order to develop a user-interface, I use `ReactJS` and vanilla `HTML`, `CSS/Scss` and `JavaScript`. 
 
 ![Esmaeil MIRZAEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmaeilmirzaee&show_icons=true&theme=radical)
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ✍🏻 I try to publish my thoughts on [Medium](https://esmaeilmirzaee.medium.com/).
 - 🎨 I share my UI design on [Uplabs](https://uplabs.com/esmaeilmirzaee).
 - 🖇 I have also linkedin account [Linkedin](https://linkedin.com/in/esmaeilmirzaee).
-- 🌱 I’m currently learning `Rust`.
+- 🌱 I’m currently learning and experiencing`Go`.
 - 👯 I’m looking to collaborate on [Mattermost](https://mattermost.com/).
 - 💬 Ask me about `JavaScript`, `TypeScript`, `Python`, `NodeJS`, `Go`, `ReactJS`, and UI design (i.e., `Figma`, `Adobe XD`, `Adobe illustrator`)
 
