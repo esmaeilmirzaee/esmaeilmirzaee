@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ✍🏻 I try to publish my thoughts on [Medium](https://esmaeilmirzaee.medium.com/).
 - 🎨 I share my UI design on [Uplabs](https://uplabs.com/esmaeilmirzaee).
 - 🖇 I have also linkedin account [Linkedin](https://linkedin.com/in/esmaeilmirzaee).
-- 🌱 I’m currently learning and experiencing`Go`.
+- 🌱 I’m currently learning and experiencing`Go` and `Rust`.
 - 👯 I’m looking to collaborate on [Mattermost](https://mattermost.com/).
 - 💬 Ask me about `JavaScript`, `TypeScript`, `Python`, `NodeJS`, `Go`, `ReactJS`, and UI design (i.e., `Figma`, `Adobe XD`, `Adobe illustrator`)
 
