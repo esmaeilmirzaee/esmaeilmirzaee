@@ -2,6 +2,9 @@
 <p align="center">Welcome to my github page</p>
 <p align="right">Esmaeil MIRZAEE</p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=esmaeilmirzaee&show_icons=true&locale=en&layout=compact&theme=onedark" alt="khashashin" />
+<img src="https://github-readme-stats.vercel.app/api?username=esmaeilmirzaee&show_icons=true&locale=en&hide=stars&theme=onedark" alt="khashashin" />
+
 
 > I was a DevOps Engineer. But I loved to put life into my ideas then I started to teach myself how to code. Now, I develop in different programming languages such as `JavaScript`, `TypeScript`, `Python` and `Go`. In order to develop a user-interface, I use `ReactJS` and vanilla `HTML`, `CSS/Scss` and `JavaScript`. 
 
